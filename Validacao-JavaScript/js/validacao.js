@@ -55,6 +55,7 @@ function mostraMensagemDeErro(tipoDeInput,input) {
     })
 
     return mensagem
+    
 }
 
 function validaDataNascimento(input) {
