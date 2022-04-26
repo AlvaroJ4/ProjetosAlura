@@ -30,5 +30,4 @@ const estilos = StyleSheet.create({
         marginLeft: 11,
         color: '#464646',
     }
-
 });
